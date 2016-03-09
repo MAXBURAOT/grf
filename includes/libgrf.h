@@ -11,6 +11,8 @@
 #ifndef __LIBGRF_H_INCLUDED
 #define __LIBGRF_H_INCLUDED
 
+#include <stddef.h>
+
 /* If we're running in C++, give the compiler a hint that the following
  * definitions are in C style */
 #ifdef __cplusplus
